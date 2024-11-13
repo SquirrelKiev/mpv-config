@@ -1,0 +1,9 @@
+[submodule "scripts/mpv-file-browser"]
+	path = scripts/mpv-file-browser
+	url = https://github.com/CogentRedTester/mpv-file-browser
+[submodule "scripts/mpv-taskbar-buttons"]
+	path = scripts/mpv-taskbar-buttons
+	url = https://github.com/qwerty12/mpv-taskbar-buttons
+[submodule "scripts/videoclip"]
+	path = scripts/videoclip
+	url = https://github.com/SquirrelKiev/videoclip.git
