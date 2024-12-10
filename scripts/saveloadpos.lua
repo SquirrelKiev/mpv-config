@@ -31,5 +31,5 @@ function load_timestamp()
     end
 end
 
-mp.add_key_binding("b", "save_timestamp", save_timestamp)
-mp.add_key_binding("n", "load_timestamp", load_timestamp)
+-- mp.add_key_binding("b", "save_timestamp", save_timestamp)
+-- mp.add_key_binding("n", "load_timestamp", load_timestamp)
