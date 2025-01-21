@@ -869,7 +869,7 @@ mp.register_event('file-loaded', function()
 	end
 end)
 
-bind_keys(o.copy_keybind, 'copy', copy)
-bind_keys(o.copy_specific_keybind, 'copy-specific', function()copy_specific(o.copy_specific_behavior)end)
+-- bind_keys(o.copy_keybind, 'copy', copy)
+-- bind_keys(o.copy_specific_keybind, 'copy-specific', function()copy_specific(o.copy_specific_behavior)end)
 bind_keys(o.paste_keybind, 'paste', paste)
 bind_keys(o.paste_specific_keybind, 'paste-specific', function()paste_specific(o.paste_specific_behavior)end)
