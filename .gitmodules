@@ -1,3 +1,4 @@
 [submodule "scripts/videoclip"]
 	path = scripts/videoclip
 	url = https://github.com/SquirrelKiev/videoclip.git
+	branch = fixes
